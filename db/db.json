@@ -1,0 +1,43 @@
+{
+  "Balsamic Tomato Topping": {
+    "recipe_name": "Balsamic Tomato Topping",
+    "ingredients": {
+      "kumato tomatoes": "2",
+      "balsamic vinegar": "2 tbsp",
+      "garlic": "2 cloves",
+      "salt": "1 tsp",
+      "pepper": "1 tsp",
+      "red chilli flakes": "1 tsp"
+    },
+    "prep": [
+      "slice garlic thinly",
+      "slice tomatoes"
+    ],
+    "recipe": [
+      "Heat a tablespoon of oil in pan and add garlic - saute until fragrant.",
+      "Add tomatoes to pan - do not let overlap.  Cook, flipping occasionally until appearing carmelized/blistered and falling apart.",
+      "Add balsalmic vinegar to pan and cook down until syrupy."
+    ]
+  },
+  "avocado crack": {
+    "recipe_name": "avocado crack",
+    "ingredients": {
+      "avocado": "2",
+      "Rice wine vinegar": "2 tbsp",
+      "Seasame oil": "1 tsp",
+      "Furikake": "to taste",
+      "White parts of green onion": "3",
+      "Ginger": "1 tsp grated",
+      "white miso": "1 tbsp",
+      "soy": "1 tbsp"
+    },
+    "prep": [
+      "Peel and cube avocados",
+      "Thinly slice white onion",
+      "Grate ginger"
+    ],
+    "recipe": [
+      "Mix erryting together"
+    ]
+  }
+}
